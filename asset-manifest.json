@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Digital-Timer-APP/static/css/main.39117cca.chunk.css",
+    "main.js": "/Digital-Timer-APP/static/js/main.8afbf57f.chunk.js",
+    "main.js.map": "/Digital-Timer-APP/static/js/main.8afbf57f.chunk.js.map",
+    "runtime-main.js": "/Digital-Timer-APP/static/js/runtime-main.18989eb9.js",
+    "runtime-main.js.map": "/Digital-Timer-APP/static/js/runtime-main.18989eb9.js.map",
+    "static/js/2.e9bf3a3b.chunk.js": "/Digital-Timer-APP/static/js/2.e9bf3a3b.chunk.js",
+    "static/js/2.e9bf3a3b.chunk.js.map": "/Digital-Timer-APP/static/js/2.e9bf3a3b.chunk.js.map",
+    "index.html": "/Digital-Timer-APP/index.html",
+    "static/css/main.39117cca.chunk.css.map": "/Digital-Timer-APP/static/css/main.39117cca.chunk.css.map",
+    "static/js/2.e9bf3a3b.chunk.js.LICENSE.txt": "/Digital-Timer-APP/static/js/2.e9bf3a3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18989eb9.js",
+    "static/js/2.e9bf3a3b.chunk.js",
+    "static/css/main.39117cca.chunk.css",
+    "static/js/main.8afbf57f.chunk.js"
+  ]
+}
